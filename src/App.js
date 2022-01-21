@@ -6,7 +6,6 @@ import Container from '@mui/material/Container';
 import Modal from '@mui/material/Modal';
 import Box from '@mui/material/Box';
 import Button from '@mui/material/Button';
-import Typography from '@mui/material/Typography';
 
 const style = {
   position: 'absolute',
@@ -28,7 +27,7 @@ export default function App() {
       <Container maxWidth="sm">
         <h1>이미지는 깊은 사실성의 반영이다. 이미지는 깊은 사실성을 감추고 변질시킨다. 이미지는 깊은 사실성의 부재를 감춘다.</h1>
         <Button onClick={handleOpen} style={{ display:'block', margin:'auto' }}>
-          <img src={carrot} className="Shape-image" alt="Shape-image" />
+          <img src={carrot} className="Shape-image" alt="Shape" />
           </Button>
         <h1>이미지는 그것이 무엇인건간에 어떠한 사실성과도 무관하다. 이미지는 자기자신의 순수한 시뮬라크르(Simulacrum)이다.</h1>
 
@@ -38,7 +37,7 @@ export default function App() {
 
         >
           <Box sx={style}>
-            <img src={picture} className="Modal-image" alt="Picture" />
+            <img src={picture} className="Modal-image" alt="Modal" />
           </Box>
         </Modal>
       </Container>

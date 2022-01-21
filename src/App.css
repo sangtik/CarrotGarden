@@ -1,5 +1,11 @@
 .App {
   /* text-align: center; */
+  font-family: "PretendardVariable";
+}
+
+@font-face{
+  font-family: "PretendardVariable";
+  src: url("./font/woff2/PretendardVariable.woff2");
 }
 
 .App-logo {
