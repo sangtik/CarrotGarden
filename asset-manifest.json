@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/carrotgarden/static/css/main.93938f45.css",
+    "main.js": "/carrotgarden/static/js/main.b3f6c2e9.js",
+    "static/js/787.3f4dda83.chunk.js": "/carrotgarden/static/js/787.3f4dda83.chunk.js",
+    "static/media/picture.png": "/carrotgarden/static/media/picture.151faa41c9e89cda9f9a.png",
+    "index.html": "/carrotgarden/index.html",
+    "main.93938f45.css.map": "/carrotgarden/static/css/main.93938f45.css.map",
+    "main.b3f6c2e9.js.map": "/carrotgarden/static/js/main.b3f6c2e9.js.map",
+    "787.3f4dda83.chunk.js.map": "/carrotgarden/static/js/787.3f4dda83.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93938f45.css",
+    "static/js/main.b3f6c2e9.js"
+  ]
+}
