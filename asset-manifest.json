@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/carrotgarden/static/css/main.9eaa39cd.css",
-    "main.js": "/carrotgarden/static/js/main.ba03241a.js",
-    "static/js/787.3f4dda83.chunk.js": "/carrotgarden/static/js/787.3f4dda83.chunk.js",
-    "static/media/PretendardVariable.woff2": "/carrotgarden/static/media/PretendardVariable.4097c3a83ad9ffa07942.woff2",
-    "static/media/picture.png": "/carrotgarden/static/media/picture.151faa41c9e89cda9f9a.png",
-    "index.html": "/carrotgarden/index.html",
-    "main.9eaa39cd.css.map": "/carrotgarden/static/css/main.9eaa39cd.css.map",
-    "main.ba03241a.js.map": "/carrotgarden/static/js/main.ba03241a.js.map",
-    "787.3f4dda83.chunk.js.map": "/carrotgarden/static/js/787.3f4dda83.chunk.js.map"
+    "main.css": "/static/css/main.d6729792.css",
+    "main.js": "/static/js/main.db4380cc.js",
+    "static/js/787.3f4dda83.chunk.js": "/static/js/787.3f4dda83.chunk.js",
+    "static/media/PretendardVariable.woff2": "/static/media/PretendardVariable.4097c3a83ad9ffa07942.woff2",
+    "static/media/picture.png": "/static/media/picture.151faa41c9e89cda9f9a.png",
+    "index.html": "/index.html",
+    "main.d6729792.css.map": "/static/css/main.d6729792.css.map",
+    "main.db4380cc.js.map": "/static/js/main.db4380cc.js.map",
+    "787.3f4dda83.chunk.js.map": "/static/js/787.3f4dda83.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9eaa39cd.css",
-    "static/js/main.ba03241a.js"
+    "static/css/main.d6729792.css",
+    "static/js/main.db4380cc.js"
   ]
 }
